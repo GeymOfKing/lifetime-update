@@ -1,0 +1,19 @@
+ .stop-page {
+
+    position: fixed;
+
+    left: 0px;
+
+    top: 0px;
+
+    width: 100%;
+
+    height: 120%;
+
+    z-index: 9999;
+
+    background:#ffffff url('') 50% 50% no-repeat rgb(249,249,249) ;
+
+}
+
+    .stop-page {display: block;}
